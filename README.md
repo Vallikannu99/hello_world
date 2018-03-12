@@ -1,2 +1,5 @@
 # hello_world
-printing hello world
+
+Hi Humans!
+
+I like chocolate. I study computer science.
